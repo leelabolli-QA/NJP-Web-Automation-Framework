@@ -1,0 +1,3 @@
+qa:
+  base_url: https://example.com
+  timeout: 30000
